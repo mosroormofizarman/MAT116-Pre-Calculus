@@ -22,7 +22,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** MAT116  
 - **Course Title:** Pre-Calculus  
-- **Instructor:** Sharmin Sultana  
+- **Instructor:** Sharmin Sultana[SSU]  
 - **Department:** Mathematics and Physics  
 - **Program:** Undergraduate  
 - **Semester:** **SUMMER 2019**  
