@@ -122,7 +122,7 @@ By the end of the course, students will be able to:
 
 ## 👩‍🏫 Instructor Details
 
-- **Name:** Sharmin Sultana  
+- **Name:** Sharmin Sultana[SSU] 
 - **Office:** SAC 1063 B  
 - **Office Hours:** 12:30 – 2:30 pm (ST & MW)  
 - **E‑mail:** sharmin.sultana02@northsouth.edu  
